@@ -1,5 +1,5 @@
 pageextension 123456700 "CSD ResourceCardExt" extends "Resource Card"
-//CSD1.00 20180220 Henrik Morsing Brandt
+//CSD1.00 20180220 Henrik Morsing Brandt ////
 {
     layout
     {
